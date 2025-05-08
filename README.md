@@ -43,7 +43,7 @@ A fun and simple brick-breaking arcade game where you control a paddle to bounce
 
 ## ⚠️ Caution
 
-This game was developed in a **Linux environment**. If you encounter any issues compiling or running it on Windows, please feel free to notify me!
+This game was developed in a **Linux environment**. If you encounter any issues compiling or running it on Windows, please notify me!
 
 ## 🎮 Controls
 
